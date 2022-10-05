@@ -15,6 +15,8 @@ class DetailViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    //Naviagation works
+    
 
     /*
     // MARK: - Navigation

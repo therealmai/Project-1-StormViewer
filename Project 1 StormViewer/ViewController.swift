@@ -26,8 +26,6 @@ class ViewController: UITableViewController {
                 pictures.append(item);
             }
         }
-        
-        print(pictures);
     }
     
     //numberOfRows
